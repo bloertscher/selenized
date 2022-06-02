@@ -1,7 +1,7 @@
 {
-    "name": "selenized-dark2",
-    "displayName": "selenized-dark2",
-    "description": "",
+    "name": "selenized-color-themes",
+    "displayName": "Selenized color themes",
+    "description": "Color theme using selenized palette, with emphasis on readability and balanced lightness.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.67.0"
@@ -15,6 +15,11 @@
                 "label": "Selenized Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Selenized Dark-color-theme.json"
+            },
+            {
+                "label": "OG Selenized Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OG Selenized Dark-color-theme.json"
             }
         ]
     }

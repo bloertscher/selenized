@@ -1,5 +1,6 @@
 {
 	"name": "Selenized Dark",
+	"$schema": "vscode://schemas/color-theme",
 	"tokenColors": [
 		{
 			"settings": {
