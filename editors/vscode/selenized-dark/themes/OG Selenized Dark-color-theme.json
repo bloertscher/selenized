@@ -124,7 +124,7 @@
 		"terminal.ansiBlack": "#174956",
 		"terminal.ansiRed": "#fa5750",
 		"terminal.ansiGreen": "#75b938",
-		"terminal.ansiYellow": "#dbb32d",
+		"terminal.ansiYellow": "#75b938",
 		"terminal.ansiBlue": "#4695f7",
 		"terminal.ansiMagenta": "#f275be",
 		"terminal.ansiCyan": "#41c7b9",
@@ -182,8 +182,7 @@
 				"punctuation.definition.template-expression"
 			],
 			"settings": {
-				"fontStyle": "normal",
-				"foreground": "#f9554f"
+				"foreground": "#4695f7"
 			}
 		},
 		{
@@ -225,7 +224,7 @@
 			"scope": "keyword.operator",
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#76ba39"
+				"foreground": "#dbb32d"
 			}
 		},
 		{
@@ -236,7 +235,7 @@
 			],
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#76ba39"
+				"foreground": "#dbb32d"
 			}
 		},
 		{
@@ -247,7 +246,7 @@
 			],
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#76ba39"
+				"foreground": "#dbb32d"
 			}
 		},
 		{
@@ -280,7 +279,7 @@
 			],
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#dbb32d"
+				"foreground": "#75b938"
 			}
 		},
 		{
@@ -311,7 +310,7 @@
 			"scope": "support.type.exception",
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#dbb32d"
+				"foreground": "#75b938"
 			}
 		},
 		{
@@ -383,7 +382,7 @@
 			"scope": "support.function.builtin.shell",
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#76ba39"
+				"foreground": "#dbb32d"
 			}
 		},
 		{
