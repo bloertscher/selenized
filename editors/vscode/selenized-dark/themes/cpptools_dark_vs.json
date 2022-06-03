@@ -49,32 +49,32 @@
 				"foreground": "#000080"
 			}
 		},
-		{
-			"scope": "comment",
-			"settings": {
-				"foreground": "#57A64A"
-			}
-		},
-		{
-			"scope": "constant.language",
-			"settings": {
-				"foreground": "#569cd6"
-			}
-		},
-		{
-			"scope": [
-				"constant.numeric"
-			],
-			"settings": {
-				"foreground": "#b5cea8"
-			}
-		},
-		{
-			"scope": "constant.regexp",
-			"settings": {
-				"foreground": "#646695"
-			}
-		},
+		// {
+		// 	"scope": "comment",
+		// 	"settings": {
+		// 		"foreground": "#57A64A"
+		// 	}
+		// },
+		// {
+		// 	"scope": "constant.language",
+		// 	"settings": {
+		// 		"foreground": "#569cd6"
+		// 	}
+		// },
+		// {
+		// 	"scope": [
+		// 		"constant.numeric"
+		// 	],
+		// 	"settings": {
+		// 		"foreground": "#b5cea8"
+		// 	}
+		// },
+		// {
+		// 	"scope": "constant.regexp",
+		// 	"settings": {
+		// 		"foreground": "#646695"
+		// 	}
+		// },
 		{
 			"scope": "entity.name.tag",
 			"settings": {
